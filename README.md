@@ -5,6 +5,9 @@ This project aims to **predict employee attrition** (whether an employee will le
 
 The project is based on the **IBM HR Analytics dataset** from Kaggle: [Dataset Link](https://www.kaggle.com/datasets/pavansubhasht/ibm-hr-analytics-attrition-dataset)
 
+## Streamlit app
+ App link-Employee Attrition(https://manosree30-employee-attrition-app-rrokww.streamlit.app/)
+
 ## Features
 The dataset contains employee information, including:
 
